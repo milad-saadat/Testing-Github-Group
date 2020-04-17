@@ -10,6 +10,10 @@ public class Bank {
         allBanks.add(this) ;
     }
 
+    public void printGood(){
+        System.out.println("good");
+    }
+
     public String getBankID() {
         return bankID;
     }
