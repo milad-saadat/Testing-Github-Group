@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="39c69a91-6329-4415-b5f0-7f64d18c95cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Customer" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -61,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587122758387</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add print good methode">
+      <created>1587124155215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587124155215</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,10 +111,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="251" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1587121432453" />
-    <state x="297" y="57" key="CommitChangelistDialog2" timestamp="1587124107807">
+    <state x="297" y="57" key="CommitChangelistDialog2" timestamp="1587124162885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="297" y="57" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587124107807" />
+    <state x="297" y="57" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587124162885" />
     <state x="129" y="54" key="DiffContextDialog" timestamp="1587124099058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -111,10 +123,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587121584163" />
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1587122831557">
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1587124208462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587122831557" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587124208462" />
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1587055594758">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
