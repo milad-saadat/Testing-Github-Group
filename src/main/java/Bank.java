@@ -12,7 +12,10 @@ public class Bank {
         this.hello = "hello";
         this.name = name ;
         allBanks.add(this) ;
+        System.out.println("good bye");
     }
+
+
 
     public void printMassage(){
         System.out.println("get the fuck out of here because faraz is here");
