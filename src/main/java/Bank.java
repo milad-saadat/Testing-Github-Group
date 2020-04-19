@@ -4,8 +4,10 @@ public class Bank {
     private static ArrayList<Bank> allBanks = new ArrayList<Bank>();
     String name ;
     String bankID;
+    String hello;
 
     public Bank(String name) {
+        this.hello = "hello";
         this.name = name ;
         allBanks.add(this) ;
     }
