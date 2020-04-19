@@ -10,6 +10,10 @@ public class Bank {
         allBanks.add(this) ;
     }
 
+    public void printMassage(){
+        System.out.println("get the fuck out of here because faraz is here");
+    }
+
     public void printGood(){
         System.out.println("good");
     }
