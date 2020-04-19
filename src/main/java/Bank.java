@@ -5,8 +5,10 @@ public class Bank {
     String name ;
     String bankID;
     String hello;
+    String bye;
 
     public Bank(String name) {
+        this.bye = "bye";
         this.hello = "hello";
         this.name = name ;
         allBanks.add(this) ;
