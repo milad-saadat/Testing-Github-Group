@@ -13,6 +13,7 @@ public class Bank {
         this.name = name ;
         allBanks.add(this) ;
         System.out.println("good bye");
+        System.out.println("hi");
     }
 
 
